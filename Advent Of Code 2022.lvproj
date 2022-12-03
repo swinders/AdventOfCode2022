@@ -19,6 +19,9 @@
 		<Item Name="Day2 - Rock Paper Scissors" Type="Folder" URL="../Day2 - Rock Paper Scissors">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Day3 - Rucksack Reorganization" Type="Folder" URL="../Day3 - Rucksack Reorganization">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
