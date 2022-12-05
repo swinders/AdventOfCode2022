@@ -25,6 +25,9 @@
 		<Item Name="Day4 - Camp Cleanup" Type="Folder" URL="../Day4 - Camp Cleanup">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Day5 - Supply Stacks" Type="Folder" URL="../Day5 - Supply Stacks">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
