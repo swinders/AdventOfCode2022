@@ -6,3 +6,4 @@ Solving challenges for Advent Of Code 2022 (https://adventofcode.com/2022) using
 * Day 3 - Rucksack Reorganization ** (Stats - Part 1: 00:37:48 #11748, Part 2: 00:49:57 #10619)
 * Day 4 - Camp Cleanup ** (Stats - Part 1: 00:49:43  #14706, Part 2: 01:16:47  #16188)
 * Day 5 - Supply Stacks ** (Stats - Part 1: 01:32:08  #15317, Part 2: 01:42:36  #15020)
+* Day 6 - Tuning Trouble ** (Stats - Part 1: 00:26:37  #13385, Part 2: 00:45:36  #15859)
