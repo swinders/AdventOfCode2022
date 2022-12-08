@@ -8,3 +8,4 @@ Solving challenges for Advent Of Code 2022 (https://adventofcode.com/2022) using
 * Day 5 - Supply Stacks ** (Stats - Part 1: 01:32:08 #15317, Part 2: 01:42:36  #15020)
 * Day 6 - Tuning Trouble ** (Stats - Part 1: 00:26:37 #13385, Part 2: 00:45:36  #15859)
 * Day 7 - No Space Left On Device ** (Stats - Part 1: 01:18:24 #7964, Part 2: 01:31:50 #7884)   
+* Day 8 - Treetop Tree House ** (Stats - Part 1: 01:19:37 #12553, Part 2: 01:49:45 #11246)

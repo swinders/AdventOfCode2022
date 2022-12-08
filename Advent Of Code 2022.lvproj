@@ -34,6 +34,9 @@
 		<Item Name="Day7 - No Space Left On Device" Type="Folder" URL="../Day7 - No Space Left On Device">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Day8 - Treetop Tree House" Type="Folder" URL="../Day8 - Treetop Tree House">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
